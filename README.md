@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
-<h3 align="center">🚀 Aspiring AI/ML Developer | NLP Enthusiast </h3>
+<h3 align="center">🚀 Aspiring AI/ML Developer | NLP Enthusiast</h3>
 
-🤖 Welcome to my GitHub profile! I'm passionate about harnessing the power of AI and Machine Learning to solve real-world problems. As a fresher, I'm constantly learning, exploring ML algorithms, and building impactful projects that combine data, intelligence, and innovation.
+<p align="center">
+  🤖 Welcome to my GitHub profile! I'm passionate about harnessing the power of AI and Machine Learning to solve real-world problems. As a fresher, I'm constantly learning, exploring ML algorithms, and building impactful projects that combine data, intelligence, and innovation.
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -10,7 +13,7 @@
 🎯 I aim to become a professional in the field of **Artificial Intelligence and Machine Learning**.  
 🧠 Currently learning: PyTorch, TensorFlow and building projects in NLP & ML.  
 🗣 I love simplifying complex topics and making tech accessible to everyone.  
-📚 Learning German (A1 level).  
+📚 Learning German language.
 
 ---
 
@@ -47,8 +50,8 @@
 
 ## 🚀 Projects & Interests
 
-- 🔠 **Hindi Sign Language Interpreter using NLP**
-- 🔠 **Text to Image Generator**
+- 🔠 **Hindi Sign Language Interpreter using NLP**  
+- 🔠 **Text to Image Generator**  
 - 🧠 **Chatbots using Gemini & Flask API**
 
 ---
@@ -57,18 +60,19 @@
 
 - 🔗 **LinkedIn**: [linkedin.com/in/priyanka--bhandari/](https://www.linkedin.com/in/priyanka--bhandari/)  
 - 🌐 **Portfolio**: [Coming Soon]  
-- 📧 **Email**: priyanka.224657201@vcet.edu.in
+- 📧 **Email**: priyanka.224657201@vcet.edu.in  
 - 💼 **GitHub**: [github.com/preeyankaa](https://github.com/preeyankaa)
 
 ---
 
 ## ✨ Fun Facts
 
-- 🌱 Currently exploring Open Source & Hackathons.  
-- 🌍 Dreaming of building a startup that makes a social impact.  
+- 🌱 Currently exploring Open Source & Hackathons  
+- 🌍 Dreaming of building a startup that makes a social impact  
 - 🎨 Also love cooking and travelling
 
 ---
 
 _Thanks for visiting! Feel free to explore my repositories and connect with me._ 🚀
+
 
