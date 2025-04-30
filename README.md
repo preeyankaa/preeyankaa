@@ -33,7 +33,6 @@
 #### 📦 Libraries & Frameworks:
 - NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly  
 - TensorFlow, Keras, OpenCV, PyTorch (learning)  
-- Flask, Streamlit, Django (learning)
 
 #### 📊 Data & Visualization:
 - Power BI, Excel
