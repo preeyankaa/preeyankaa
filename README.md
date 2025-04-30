@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
-<h3 align="center">🚀 Aspiring AI/ML Developer | NLP Enthusiast</h3>
 
 <p align="center">
   🤖 Welcome to my GitHub profile! I'm passionate about harnessing the power of AI and Machine Learning to solve real-world problems. As a fresher, I'm constantly learning, exploring ML algorithms, and building impactful projects that combine data, intelligence, and innovation.
