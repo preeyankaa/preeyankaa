@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
-<h3 align="center">🚀 Aspiring AI/ML Developer | NLP Enthusiast | Web Developer | Creative Tech Explorer</h3>
+<h3 align="center">🚀 Aspiring AI/ML Developer | NLP Enthusiast </h3>
 
 ---
 
