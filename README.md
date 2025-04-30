@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
 <h3 align="center">🚀 Aspiring AI/ML Developer | NLP Enthusiast </h3>
 
+🤖 Welcome to my GitHub profile! I'm passionate about harnessing the power of AI and Machine Learning to solve real-world problems. As a fresher, I'm constantly learning, exploring ML algorithms, and building impactful projects that combine data, intelligence, and innovation.
 ---
 
 ## 👩‍💻 About Me
@@ -13,7 +14,7 @@
 
 ---
 
-## 💻 About Me
+## 💻 What I do
 
 - ✅ Work on Real-World Projects using Python, ML, and Web Development  
 - 🤖 Build NLP-based applications like chatbots and interpreters  
@@ -69,5 +70,5 @@
 
 ---
 
-> *“Believe in yourself and keep experimenting. Learning never stops when curiosity lives within you!”* 🚀
+_Thanks for visiting! Feel free to explore my repositories and connect with me._ 🚀
 
