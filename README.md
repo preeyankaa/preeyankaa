@@ -27,22 +27,11 @@
 
 ## 🛠️ Tools & Technologies
 
-#### 👩‍💻 Languages:
-- Python, ML, HTML, CSS, SQL
-
-#### 📦 Libraries & Frameworks:
-- NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly  
-- TensorFlow, Keras, OpenCV, PyTorch (learning)  
-
-#### 📊 Data & Visualization:
-- Power BI, Excel
-
-#### 🧠 ML & NLP Techniques:
-- Linear/Logistic Regression, KNN, SVM, Random Forest, Decision Tree  
-- K-Means, DBSCAN, PCA  
-
-#### 🎨 Other Tools:
-- Canva, GitHub, Google Colab, VS Code
+- **Languages:** Python, ML, HTML, CSS, SQL  
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, OpenCV, PyTorch (learning)  
+- **Data & Visualization:** Power BI, Excel  
+- **ML & NLP Techniques:** Linear/Logistic Regression, KNN, SVM, Random Forest, Decision Tree, K-Means
+- **Other Tools:** Canva, GitHub, Google Colab, VS Code
 
 ---
 
@@ -65,12 +54,10 @@
 
 ## ✨ Fun Facts
 
-- 🌱 Currently exploring Open Source & Hackathons  
-- 🌍 Dreaming of building a startup that makes a social impact  
+- 🌱 Currently exploring Open Source & Hackathons    
 - 🎨 Also love cooking and travelling
 
 ---
 
 _Thanks for visiting! Feel free to explore my repositories and connect with me._ 🚀
-
 
