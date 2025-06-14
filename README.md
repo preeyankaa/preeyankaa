@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-🌟 I'm a Third-year B.E student passionate about using technology to solve real-world problems.  
-🎯 I aim to become a professional in the field of **Artificial Intelligence and Machine Learning**.   
-🗣 I love simplifying complex topics and making tech accessible to everyone.  
+- I'm a Third-year B.E student passionate about using technology to solve real-world problems.  
+- I aim to become a professional in the field of **Artificial Intelligence and Machine Learning**.   
+- I love simplifying complex topics and making tech accessible to everyone.  
 
 ---
 
