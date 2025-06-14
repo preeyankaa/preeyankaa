@@ -8,11 +8,9 @@
 
 ## 👩‍💻 About Me
 
-🌟 I'm a Third-year B.Tech student passionate about using technology to solve real-world problems.  
-🎯 I aim to become a professional in the field of **Artificial Intelligence and Machine Learning**.  
-🧠 Currently learning: PyTorch, TensorFlow and building projects in NLP & ML.  
+🌟 I'm a Third-year B.E student passionate about using technology to solve real-world problems.  
+🎯 I aim to become a professional in the field of **Artificial Intelligence and Machine Learning**.   
 🗣 I love simplifying complex topics and making tech accessible to everyone.  
-📚 Learning German language.
 
 ---
 
@@ -21,23 +19,25 @@
 - ✅ Work on Real-World Projects using Python, ML, and Web Development  
 - 🤖 Build NLP-based applications like chatbots and interpreters  
 - 🧪 Experiment with AI models for meaningful, impactful solutions  
-- 📷 Enjoy creative designing (Canva), cooking, and exploring new ideas  
+- 📷 Enjoy creative designing (Canva) and exploring new ideas  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, ML, HTML, CSS, SQL  
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, OpenCV, PyTorch (learning)  
-- **Data & Visualization:** Power BI, Excel  
-- **ML & NLP Techniques:** Linear/Logistic Regression, KNN, SVM, Random Forest, Decision Tree, K-Means
-- **Other Tools:** Canva, GitHub, Google Colab, VS Code
+<!-- **ML & NLP Techniques:** Linear/Logistic Regression, KNN, SVM, Random Forest, Decision Tree, K-Means -->
+
+ - **Programming Languages:** Python, Java(DSA) , SQL, C
+ - **AI & MLLearning:** Scikit-learn
+ - **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, PySpark
+ - **Web Development:** HTML, CSS, Bootstrap, JavaScript, Flask
+ - **Tools & Platforms:** Git, GitHub, VS Code, Canva
 
 ---
 
 ## 🚀 Projects & Interests
 
-- 🔠 **Hindi Sign Language Interpreter using NLP**  
+- 🔠 **Smart Sign Language Recognition**  
 - 🔠 **Text to Image Generator**  
 - 🧠 **Chatbots using Gemini & Flask API**
 
