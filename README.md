@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
 
 <p align="center">
-  🌟 Aspiring AI/ML Engineer skilled in Python and machine learning. I love building real-world projects using data and smart solutions. Always learning and improving through hands-on practice.
+  Aspiring AI/ML Engineer skilled in Python and machine learning. I love building real-world projects using data and smart solutions. Always learning and improving through hands-on practice.
 </p>
 
 ---
