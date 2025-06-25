@@ -56,7 +56,7 @@
 
 ### ✨ Fun Facts
 
-- 🌱 Exploring Open source & Hackathons 
+- 🌱 Exploring Open source
 - 🎨 I also love cooking, traveling & sharing ideas
 
 ---
