@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  🌸 Final Year B.E. (AI & Data Science) | Aspiring AI/ML Engineer  
+   Final Year B.E. (AI & Data Science) | Aspiring AI/ML Engineer  
   <br>
   💡 Python • Machine Learning • AI  
 </p>
