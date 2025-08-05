@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
+<h1 align="center">Hi 👋, I’m Priyanka Bhandari</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="girl coding gif">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="girl coding gif"/>
 </p>
 
-
 <p align="center">
-   Final Year B.E. (AI & Data Science) | AI/ML Engineer 
-  <br>
-  💡 Python • Machine Learning • AI • JavaScript • React 
+  Final Year B.E. (AI & Data Science) | Aspiring SDE & AI/ML Enthusiast  
+  <br/>
+  💡 Python • Machine Learning • JavaScript • React
 </p>
 
 ---
@@ -15,8 +14,8 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final year AI & Data Science student, passionate about solving real-world problems  
-- 🌸 Curious mind, creative soul — I enjoy blending logic with simplicity  
-- 💬 I believe in learning-by-doing and making technology accessible to all  
+- 🌸 Curious mind & creative soul — I blend logic with simplicity  
+- 💬 Learning-by-doing advocate; I love making technology accessible  
 
 ---
 
@@ -40,6 +39,9 @@
   <!-- Frontend -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
 
   <!-- Backend -->
@@ -75,38 +77,38 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 🌟 What I Do
 
-- 🤖 Build intelligent systems using Python, ML, and GenAI  
-- 🧠 Apply AI/ML to real data and solve actual use-cases  
-- 🎨 Add creativity to tech using Canva & clean UI principles  
-- 🚀 Participate in hands-on projects, self-driven learning & hackathons
+- 🌐 Exploring full-stack development using React, Vite, Flask, and MySQL  
+- 📚 Practicing AI/ML concepts by working on mini projects using Python, NumPy & scikit-learn  
+- 💻 Building academic + self-initiated projects focused on real-world problems  
+- 🎨 Designing clean and intuitive UIs using Canva and basic CSS principles  
+- 👩‍🎓 Continuously learning version control, debugging, and documentation on GitHub  
 
 ---
 
 ### 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:priyanka.224657201@vcet.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/preeyankaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/priyanka--bhandari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://huggingface.co/preeyankaa"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-
+  <a href="mailto:priyanka.224657201@vcet.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/preeyankaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/priyanka--bhandari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://huggingface.co/preeyankaa"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 ---
 
 ### ✨ Fun Facts
 
-- 🌱 Exploring Open source
-- 🎨 I also love cooking, traveling & sharing ideas
+- 🌱 Currently exploring open-source contributions  
+- ✈️ I enjoy cooking, traveling & working on creative ideas  
 
----
+<p align="center">✨ Thanks for stopping by—feel free to explore my work and say hello! ✨</p>
 
-<p align="center">✨ Thanks for visiting! Feel free to explore my repositories and connect with me. ✨</p>
+
+
+
 
 
