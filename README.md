@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Final Year B.E. (AI & Data Science) | Aspiring SDE & AI/ML Enthusiast  
+  Final Year B.E. | Aspiring SDE & AI/ML Enthusiast  
   <br/>
   💡 Python • Machine Learning • JavaScript • React
 </p>
