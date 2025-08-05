@@ -5,9 +5,9 @@
 
 
 <p align="center">
-   Final Year B.E. (AI & Data Science) | JavaScript| React | AI/ML 
+   Final Year B.E. (AI & Data Science) | AI/ML Engineer 
   <br>
-  💡 Python • Machine Learning • AI  
+  💡 Python • Machine Learning • AI • JavaScript • React 
 </p>
 
 ---
