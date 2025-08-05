@@ -17,7 +17,6 @@
 - 🎓 Final year AI & Data Science student, passionate about solving real-world problems  
 - 🌸 Curious mind, creative soul — I enjoy blending logic with simplicity  
 - 💬 I believe in learning-by-doing and making technology accessible to all  
-- 🌱 Currently exploring GenAI, LangChain & Agentic AI tools  
 
 ---
 
