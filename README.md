@@ -14,7 +14,6 @@
 - 🎓 BE in Artificial Intelligence & Data Science (2026) — always curious to solve real-world problems with AI  
 - 🤖 Building AI/ML solutions — from model development to real-world deployment
 - 🧠 Working with GenAI and RAG-based systems for intelligent applications 
-- 🌸 I blend logic with simplicity — clean code, clean thinking  
 
  
 ### ⚙️ Tech Stack
