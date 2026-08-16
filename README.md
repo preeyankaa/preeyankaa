@@ -7,7 +7,7 @@
   <br/>
   💡 Python • Machine Learning • GenAI • RAG
 </p>
----
+
  
 ### 👩‍💻 About Me
  
@@ -15,7 +15,7 @@
 - 🤖 Building AI/ML solutions — from model development to real-world deployment
 - 🧠 Working with GenAI and RAG-based systems for intelligent applications 
 - 🌸 I blend logic with simplicity — clean code, clean thinking  
----
+
  
 ### ⚙️ Tech Stack
  
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
----
  
  
 ### 📫 Let's Connect
