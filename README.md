@@ -5,7 +5,7 @@
 <p align="center">
   Aspiring AI Engineer
   <br/>
-  💡 Python • Machine Learning • GenAI • RAG • AW
+  💡 Python • Machine Learning • GenAI • RAG • AWS
 </p>
 
  
