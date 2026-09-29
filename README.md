@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Bhandari</h1>  
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="girl coding gif"/>
 </p>
